@@ -1,0 +1,41 @@
+[24-Apr-2019 14:25:50 America/Caracas] PHP Notice:  Undefined index: operador in /home/fidonoxt/public_html/operadores/header.php on line 6
+[24-Apr-2019 14:25:50 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/operadores/header.php on line 83
+[24-Apr-2019 14:25:50 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 2
+[24-Apr-2019 14:25:50 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 74
+[24-Apr-2019 14:25:50 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fidonoxt/public_html/operadores/index.php on line 78
+[24-Apr-2019 15:02:33 America/Santo_Domingo] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/fidonoxt/public_html/operadores/trans_clientes.php on line 182
+[24-Apr-2019 15:03:16 America/Santo_Domingo] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/fidonoxt/public_html/operadores/trans_clientes.php on line 182
+[24-Apr-2019 15:06:29 America/Santo_Domingo] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/fidonoxt/public_html/operadores/trans_clientes.php on line 182
+[24-Apr-2019 15:32:28 America/Santo_Domingo] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/fidonoxt/public_html/operadores/trans_clientes.php on line 182
+[09-May-2019 10:02:30 America/Caracas] PHP Notice:  Undefined index: operador in /home/fidonoxt/public_html/operadores/header.php on line 6
+[09-May-2019 10:02:30 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/operadores/header.php on line 83
+[09-May-2019 10:02:30 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 2
+[09-May-2019 10:02:30 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 74
+[09-May-2019 10:02:30 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fidonoxt/public_html/operadores/index.php on line 78
+[09-May-2019 10:03:01 America/Santo_Domingo] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/fidonoxt/public_html/operadores/trans_clientes.php on line 182
+[09-May-2019 11:01:09 America/Santo_Domingo] PHP Notice:  Use of undefined constant imagen - assumed 'imagen' in /home/fidonoxt/public_html/operadores/trans_clientes.php on line 182
+[09-May-2019 11:01:13 America/Caracas] PHP Notice:  Undefined index: operador in /home/fidonoxt/public_html/operadores/header.php on line 6
+[09-May-2019 11:01:13 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/operadores/header.php on line 83
+[09-May-2019 11:01:13 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 2
+[09-May-2019 11:01:13 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 74
+[09-May-2019 11:01:13 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fidonoxt/public_html/operadores/index.php on line 78
+[09-May-2019 11:30:00 America/Caracas] PHP Notice:  Undefined index: operador in /home/fidonoxt/public_html/operadores/header.php on line 6
+[09-May-2019 11:30:00 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/operadores/header.php on line 83
+[09-May-2019 11:30:00 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 2
+[09-May-2019 11:30:00 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 74
+[09-May-2019 11:30:00 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fidonoxt/public_html/operadores/index.php on line 78
+[10-May-2019 19:06:58 America/Caracas] PHP Notice:  Undefined index: operador in /home/fidonoxt/public_html/operadores/header.php on line 6
+[10-May-2019 19:06:58 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/operadores/header.php on line 83
+[10-May-2019 19:06:58 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 2
+[10-May-2019 19:06:58 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 74
+[10-May-2019 19:06:58 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fidonoxt/public_html/operadores/index.php on line 78
+[11-May-2019 07:44:20 America/Caracas] PHP Notice:  Undefined index: operador in /home/fidonoxt/public_html/operadores/header.php on line 6
+[11-May-2019 07:44:20 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/operadores/header.php on line 83
+[11-May-2019 07:44:20 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 2
+[11-May-2019 07:44:20 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 74
+[11-May-2019 07:44:20 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fidonoxt/public_html/operadores/index.php on line 78
+[13-May-2019 18:38:43 America/Caracas] PHP Notice:  Undefined index: operador in /home/fidonoxt/public_html/operadores/header.php on line 6
+[13-May-2019 18:38:43 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/operadores/header.php on line 83
+[13-May-2019 18:38:43 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 2
+[13-May-2019 18:38:43 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/operadores/index.php on line 74
+[13-May-2019 18:38:43 America/Caracas] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/fidonoxt/public_html/operadores/index.php on line 78

@@ -1,0 +1,25 @@
+{
+  "short_name": "Tecno RB",
+  "name": "Envia dinero a tus familiares en Venezuela",
+  "icons": [
+    {
+      "src": "im/logo.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "im/logo96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "../admin/images/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+   "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "login?launcher=true"
+}

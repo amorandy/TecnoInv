@@ -1,0 +1,30 @@
+[24-Apr-2019 08:27:23 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 245
+[24-Apr-2019 08:27:23 America/Caracas] PHP Notice:  Undefined variable: error in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 314
+[24-Apr-2019 08:27:23 America/Caracas] PHP Notice:  Use of undefined constant taza - assumed 'taza' in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 353
+[24-Apr-2019 08:27:23 America/Caracas] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 353
+[24-Apr-2019 08:27:23 America/Caracas] PHP Notice:  Undefined variable: code in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 359
+[24-Apr-2019 08:27:23 America/Caracas] PHP Notice:  Undefined variable: code in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 376
+[24-Apr-2019 08:27:23 America/Caracas] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 392
+[24-Apr-2019 08:27:23 America/Caracas] PHP Notice:  Undefined variable: db_connect in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 394
+[24-Apr-2019 08:27:23 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 394
+[27-Apr-2019 12:45:14 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/users/transferencias.php on line 113
+[27-Apr-2019 12:45:14 America/Caracas] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/fidonoxt/public_html/users/transferencias.php on line 211
+[27-Apr-2019 12:45:14 America/Caracas] PHP Notice:  Undefined variable: db_connect in /home/fidonoxt/public_html/users/transferencias.php on line 213
+[27-Apr-2019 12:45:14 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/fidonoxt/public_html/users/transferencias.php on line 213
+[27-Apr-2019 12:45:14 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/users/index.php on line 124
+[27-Apr-2019 12:45:14 America/Caracas] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/fidonoxt/public_html/users/index.php on line 222
+[27-Apr-2019 12:45:14 America/Caracas] PHP Notice:  Undefined variable: db_connect in /home/fidonoxt/public_html/users/index.php on line 224
+[27-Apr-2019 12:45:14 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/fidonoxt/public_html/users/index.php on line 224
+[13-May-2019 17:42:08 America/Santo_Domingo] PHP Notice:  Undefined index: banco in /home/fidonoxt/public_html/users/hacer_transferencia.php on line 29
+[14-May-2019 10:12:21 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/users/index.php on line 124
+[14-May-2019 10:12:21 America/Caracas] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/fidonoxt/public_html/users/index.php on line 222
+[14-May-2019 10:12:21 America/Caracas] PHP Notice:  Undefined variable: db_connect in /home/fidonoxt/public_html/users/index.php on line 224
+[14-May-2019 10:12:21 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/fidonoxt/public_html/users/index.php on line 224
+[14-May-2019 11:53:02 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/users/index.php on line 124
+[14-May-2019 11:53:02 America/Caracas] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/fidonoxt/public_html/users/index.php on line 224
+[14-May-2019 11:53:02 America/Caracas] PHP Notice:  Undefined variable: db_connect in /home/fidonoxt/public_html/users/index.php on line 226
+[14-May-2019 11:53:02 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/fidonoxt/public_html/users/index.php on line 226
+[14-May-2019 16:33:48 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/users/index.php on line 124
+[14-May-2019 16:33:48 America/Caracas] PHP Notice:  Use of undefined constant id - assumed 'id' in /home/fidonoxt/public_html/users/index.php on line 224
+[14-May-2019 16:33:48 America/Caracas] PHP Notice:  Undefined variable: db_connect in /home/fidonoxt/public_html/users/index.php on line 226
+[14-May-2019 16:33:48 America/Caracas] PHP Fatal error:  Call to a member function query() on null in /home/fidonoxt/public_html/users/index.php on line 226

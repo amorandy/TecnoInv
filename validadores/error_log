@@ -1,0 +1,20 @@
+[24-Apr-2019 15:07:00 America/Caracas] PHP Notice:  Undefined index: validador in /home/fidonoxt/public_html/validadores/header.php on line 6
+[24-Apr-2019 15:07:00 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/validadores/header.php on line 83
+[24-Apr-2019 15:07:00 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 2
+[24-Apr-2019 15:07:00 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 74
+[24-Apr-2019 19:26:34 America/Caracas] PHP Notice:  Undefined index: validador in /home/fidonoxt/public_html/validadores/header.php on line 6
+[24-Apr-2019 19:26:34 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/validadores/header.php on line 83
+[24-Apr-2019 19:26:34 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 2
+[24-Apr-2019 19:26:34 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 74
+[27-Apr-2019 12:47:50 America/Caracas] PHP Notice:  Undefined index: validador in /home/fidonoxt/public_html/validadores/header.php on line 6
+[27-Apr-2019 12:47:50 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/validadores/header.php on line 83
+[27-Apr-2019 12:47:50 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 2
+[27-Apr-2019 12:47:50 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 74
+[09-May-2019 10:56:30 America/Caracas] PHP Notice:  Undefined index: validador in /home/fidonoxt/public_html/validadores/header.php on line 6
+[09-May-2019 10:56:30 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/validadores/header.php on line 83
+[09-May-2019 10:56:30 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 2
+[09-May-2019 10:56:30 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 74
+[09-May-2019 20:46:28 America/Caracas] PHP Notice:  Undefined index: validador in /home/fidonoxt/public_html/validadores/header.php on line 6
+[09-May-2019 20:46:28 America/Caracas] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/fidonoxt/public_html/validadores/header.php on line 83
+[09-May-2019 20:46:28 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 2
+[09-May-2019 20:46:28 America/Caracas] PHP Notice:  Use of undefined constant idv - assumed 'idv' in /home/fidonoxt/public_html/validadores/index.php on line 74
